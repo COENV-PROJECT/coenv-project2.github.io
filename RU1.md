@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Home"
+title: "RU1"
 ---
 <body>
     <!-- ciao -->

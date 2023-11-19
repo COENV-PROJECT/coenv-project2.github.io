@@ -17,8 +17,8 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md""}
+  - {title:"Website" url:"https://www.dec.unich.it/home-ippoliti-luigi-131"}
+  - {title: "Research Unit 1", file:"RU1.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:luigi.ippoliti@unich.it"}

@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title:"My Website", url:"https://www.dec.unich.it/home-ippoliti-luigi-131"}
+  - {title:"My Website", url:"https://www.dec.unich.it//home-ippoliti-luigi-131"}
   - {title: "Research Unit 1", file:"RU1.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons

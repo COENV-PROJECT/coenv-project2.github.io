@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Research Unit 1"
+title: "RU1"
 ---
 
 {% if site.show_excerpts %}

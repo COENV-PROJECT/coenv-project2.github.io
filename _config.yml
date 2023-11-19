@@ -25,20 +25,15 @@ research_units:
 # Principal Investigators
 principal_investigators:
   - name: Nome Investigatore 1
-    photo: /path/to/photo1.jpg
+
   - name: Nome Investigatore 2
-    photo: /path/to/photo2.jpg
+
   - name: Nome Investigatore 3
-    photo: /path/to/photo3.jpg
+ 
 
 # Pubblicazioni
 publications:
   - title: "Titolo della Pubblicazione 1"
-    link: http://linkalla pubblicazione1.com
-  - title: "Titolo della Pubblicazione 2"
-    link: http://linkalla pubblicazione2.com
-  - title: "Titolo della Pubblicazione 3"
-    link: http://linkalla pubblicazione3.com
 
 
 # Menu

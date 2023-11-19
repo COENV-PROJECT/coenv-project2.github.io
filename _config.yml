@@ -13,28 +13,6 @@ show_frame: true           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
 
-# Sezioni del Progetto di Ricerca
-research_units:
-  - name: Unità di Ricerca 1
-    description: Descrizione della Unità di Ricerca 1.
-  - name: Unità di Ricerca 2
-    description: Descrizione della Unità di Ricerca 2.
-  - name: Unità di Ricerca 3
-    description: Descrizione della Unità di Ricerca 3.
-
-# Principal Investigators
-principal_investigators:
-  - name: Nome Investigatore 1
-
-  - name: Nome Investigatore 2
-
-  - name: Nome Investigatore 3
- 
-
-# Pubblicazioni
-publications:
-  - title: "Titolo della Pubblicazione 1"
-
 
 # Menu
 

@@ -2,9 +2,6 @@
 layout: default
 title: "RU1"
 ---
-<body>
-    <!-- ciao -->
-</body>
 
 {% if site.show_excerpts %}
   {% include home.html %}
